@@ -1,3 +1,7 @@
+⚠️
+This repository is archived, please use https://github.com/zedomel/redhead2018 instead. 
+⚠️
+
 [![Build Status](https://travis-ci.com/redhead2018.svg)](https://travis-ci.com/redhead2018) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=zedomel:redhead2018)](http://globalbioticinteractions.org/?accordingTo=zedomel:redhead2018)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
